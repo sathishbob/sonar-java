@@ -1,0 +1,6 @@
+projectKey=sonarqube-java-project
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=sonarqube-java-project
+ceTaskId=74d27eab-9da6-4f5b-bbae-59f5d4596ed4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=74d27eab-9da6-4f5b-bbae-59f5d4596ed4

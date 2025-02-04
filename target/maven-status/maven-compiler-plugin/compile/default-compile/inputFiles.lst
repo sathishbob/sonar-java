@@ -1,0 +1,9 @@
+/root/sonarqube-java-project/src/main/java/com/example/App.java
+/root/sonarqube-java-project/src/main/java/com/example/DivisionByZeroExample.java
+/root/sonarqube-java-project/src/main/java/com/example/HardcodedCredentialsExample.java
+/root/sonarqube-java-project/src/main/java/com/example/InconsistentSyncExample.java
+/root/sonarqube-java-project/src/main/java/com/example/NullPointerExample.java
+/root/sonarqube-java-project/src/main/java/com/example/ResourceLeakExample.java
+/root/sonarqube-java-project/src/main/java/com/example/StringConcatenationExample.java
+/root/sonarqube-java-project/src/main/java/com/example/UnreachableCodeExample.java
+/root/sonarqube-java-project/src/main/java/com/example/UnusedVariableExample.java
